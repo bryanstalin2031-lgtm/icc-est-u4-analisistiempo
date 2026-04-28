@@ -1,5 +1,4 @@
 import java.util.concurrent.Callable;
-s
 import models.Results;
 
 public class BenchMarking {
